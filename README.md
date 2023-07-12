@@ -6,5 +6,5 @@ SciPy 2023 lightning talk
 ```
 nodeenv .env
 . .env/bin/activate
-npm install @slidev/cli @slidev/theme-default @slidev/theme-seriph
+npm install @slidev/cli @slidev/theme-default @slidev/theme-seriph playwright-chromium
 ```
