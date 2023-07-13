@@ -102,7 +102,7 @@ But let's go!
 
 </div>
 <!--  -->
-<div>
+<div style="font-size: 22px">
 
 <br>
 
@@ -111,6 +111,57 @@ But let's go!
    - Not everyone can (or should!) be Daniel Stenberg (developing `curl` since before 1998)
 
 </div>
+</div>
+
+---
+
+# Small dev teams in science can be exciting but hard
+
+<div grid="~ cols-2 gap-4">
+<div>
+
+<Tweet id="1634267482709008384" />
+
+</div>
+<!--  -->
+<div>
+
+<Tweet id="1634267487582801924" />
+
+</div>
+</div>
+
+---
+
+# Find and embrace developer communities
+
+<div style="margin-left:150px">
+<a href="https://scikit-hep.org/">
+<img src="/public/figures/shells-hep.svg" style="width: 70%">
+</a>
+</div>
+
+<div style="margin-left:325px">
+
+[scikit-hep.org](https://scikit-hep.org/)
+
+</div>
+
+---
+
+# Find and embrace developer communities
+
+<div style="margin-left:100px">
+<a href="https://scikit-hep.org/">
+<img src="/public/figures/scientific-python.png" style="width: 90%">
+</a>
+</div>
+
+
+<div style="margin-left:325px">
+
+[scientific-python.org](https://scientific-python.org/)
+
 </div>
 
 ---
