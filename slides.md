@@ -138,7 +138,7 @@ But let's go!
 # Find and embrace developer communities
 
 <div style="display: flex; justify-content:center;">
-<a href="https://scikit-hep.org/">
+<a href="https://scikit-hep.org/" style="border-style: none;">
 <img src="/figures/shells-hep.svg" style="width: 60%; margin: 0 auto;">
 </a>
 </div>
@@ -154,7 +154,7 @@ But let's go!
 # Find and embrace developer communities
 
 <div style="display: flex; justify-content:center;">
-<a href="https://scikit-hep.org/">
+<a href="https://scikit-hep.org/" style="border-style: none;">
 <img src="/figures/scientific-python.png" style="width: 80%; margin: 0 auto;">
 </a>
 </div>
@@ -171,7 +171,7 @@ But let's go!
 # Engage and uplift the RSE Community
 
 <div style="display: flex; justify-content:center;">
-<a href="https://us-rse.org/">
+<a href="https://us-rse.org/" style="border-style: none;">
 <img src="/figures/us-rse-page.png" style="width: 80%; margin: 0 auto;">
 </a>
 </div>
@@ -195,19 +195,19 @@ Don't listen to me, go to the talks and Birds of a Feather sessions this week!
 </div>
 
 <div style="display: flex; justify-content:center;">
-<a href="https://cfp.scipy.org/2023/talk/UT3CUZ/">
+<a href="https://cfp.scipy.org/2023/talk/UT3CUZ/" style="border-style: none;">
 <img src="/figures/talk-metpy.png" style="width: 50%; margin: 0 auto;">
 </a>
 </div>
 
 <div style="display: flex; justify-content:center;">
-<a href="https://cfp.scipy.org/2023/talk/EDZ9YB/">
+<a href="https://cfp.scipy.org/2023/talk/EDZ9YB/" style="border-style: none;">
 <img src="/figures/talk-pythia-community.png" style="width: 50%; margin: 0 auto;">
 </a>
 </div>
 
 <div style="display: flex; justify-content:center;">
-<a href="https://cfp.scipy.org/2023/talk/9JTLCF/">
+<a href="https://cfp.scipy.org/2023/talk/9JTLCF/" style="border-style: none;">
 <img src="/figures/talk-nabari.png" style="width: 50%; margin: 0 auto;">
 </a>
 
