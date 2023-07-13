@@ -97,7 +97,9 @@ But let's go!
 [![](https://opentechstrategies.com/archetypes-files/open-source-archetypes-v2-cover.png)](https://opentechstrategies.com/archetypes)
 
 <div style="text-align:center;">
+
 [Open Source Archetypes: A Framework For Purposeful Open Source](https://opentechstrategies.com/archetypes) --- Open Tech Strategies and Mozilla, 2019
+
 </div>
 
 </div>
