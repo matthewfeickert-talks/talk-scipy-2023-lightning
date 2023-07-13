@@ -98,7 +98,7 @@ But let's go!
 
 <div style="text-align:center;">
 [Open Source Archetypes: A Framework For Purposeful Open Source](https://opentechstrategies.com/archetypes) --- Open Tech Strategies and Mozilla, 2019
-<div>
+</div>
 
 </div>
 <!--  -->
