@@ -133,9 +133,9 @@ But let's go!
 
 # Find and embrace developer communities
 
-<div style="margin-left:150px">
+<div style="display: flex; justify-content:center;">
 <a href="https://scikit-hep.org/">
-<img src="/figures/shells-hep.svg" style="width: 70%">
+<img src="/figures/shells-hep.svg" style="width: 60%; margin: 0 auto;">
 </a>
 </div>
 
@@ -149,9 +149,9 @@ But let's go!
 
 # Find and embrace developer communities
 
-<div style="margin-left:100px">
+<div style="display: flex; justify-content:center;">
 <a href="https://scikit-hep.org/">
-<img src="/figures/scientific-python.png" style="width: 90%">
+<img src="/figures/scientific-python.png" style="width: 80%; margin: 0 auto;">
 </a>
 </div>
 
@@ -166,9 +166,9 @@ But let's go!
 
 # Engage and uplift the RSE Community
 
-<div style="margin-left:100px">
+<div style="display: flex; justify-content:center;">
 <a href="https://us-rse.org/">
-<img src="/figures/us-rse-page.png" style="width: 90%">
+<img src="/figures/us-rse-page.png" style="width: 80%; margin: 0 auto;">
 </a>
 </div>
 
@@ -184,18 +184,27 @@ But let's go!
 
 Don't listen to me, go to the talks and Birds of a Feather sessions this week!
 
+<div style="display: flex; justify-content:center;">
 <a href="https://cfp.scipy.org/2023/talk/MEGK33/">
-<img src="/figures/talk-contributor-experience.png" style="width: 50%">
+<img src="/figures/talk-contributor-experience.png" style="width: 50%; margin: 0 auto;">
 </a>
+</div>
 
+<div style="display: flex; justify-content:center;">
 <a href="https://cfp.scipy.org/2023/talk/UT3CUZ/">
-<img src="/figures/talk-metpy.png" style="width: 50%">
+<img src="/figures/talk-metpy.png" style="width: 50%; margin: 0 auto;">
 </a>
+</div>
 
+<div style="display: flex; justify-content:center;">
 <a href="https://cfp.scipy.org/2023/talk/EDZ9YB/">
-<img src="/figures/talk-pythia-community.png" style="width: 50%">
+<img src="/figures/talk-pythia-community.png" style="width: 50%; margin: 0 auto;">
+</a>
+</div>
+
+<div style="display: flex; justify-content:center;">
+<a href="https://cfp.scipy.org/2023/talk/9JTLCF/">
+<img src="/figures/talk-nabari.png" style="width: 50%; margin: 0 auto;">
 </a>
 
-<a href="https://cfp.scipy.org/2023/talk/9JTLCF/">
-<img src="/figures/talk-nabari.png" style="width: 50%">
-</a>
+</div>
