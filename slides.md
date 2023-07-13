@@ -29,6 +29,10 @@ SciPy 2023 Lightning Talks
 
 July 13th, 2023
 
+<div class="abs-bl m-5 flex gap-2">
+  <img src=/figures/logos/logo_institution.png style="width: 30%">
+</div>
+
 <div class="pt-12">
   <span @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
     Press Space for next page <carbon:arrow-right class="inline"/>
@@ -44,6 +48,8 @@ July 13th, 2023
 
 <!--
 The last comment block of each slide will be treated as slide notes. It will be visible and editable in Presenter Mode along with the slide. [Read more in the docs](https://sli.dev/guide/syntax.html#notes)
+
+TODO: How to add logos?
 -->
 
 ---
