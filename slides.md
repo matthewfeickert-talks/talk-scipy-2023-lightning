@@ -1,6 +1,8 @@
 ---
 theme: seriph
-background: https://source.unsplash.com/collection/94734566/1920x1080
+# background: https://source.unsplash.com/collection/94734566/1920x1080
+# background: "white"
+aspectRatio: '16/9'
 class: text-center
 highlighter: shiki
 lineNumbers: false
@@ -11,6 +13,7 @@ info: |
   Learn more at [Sli.dev](https://sli.dev)
 drawings:
   persist: false
+favicon: 'https://images.squarespace-cdn.com/content/v1/63975e9df6661225421e79b4/e46a82c5-0bc8-40ef-9299-e866d2934ee2/favicon.ico?format=100w'
 transition: fade-out
 # transition: slide-left
 # transition: false
@@ -19,9 +22,15 @@ download: true
 title: Sustainability of Scientific Open Source Software
 ---
 
-# Sustainability of Scientific Open Source Software
+# Sustainability of Scientific<br>Open Source Software
+<br>
+Matthew Feickert
 
-Presentation slides for developers
+matthew.feickert@cern.ch
+
+SciPy 2023 Lightning Talks
+
+July 13th, 2023
 
 <div class="pt-12">
   <span @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
@@ -30,10 +39,7 @@ Presentation slides for developers
 </div>
 
 <div class="abs-br m-6 flex gap-2">
-  <button @click="$slidev.nav.openInEditor()" title="Open in Editor" class="text-xl slidev-icon-btn opacity-50 !border-none !hover:text-white">
-    <carbon:edit />
-  </button>
-  <a href="https://github.com/slidevjs/slidev" target="_blank" alt="GitHub"
+  <a href="https://github.com/matthewfeickert-talks/talk-scipy-2023-lightning" target="_blank" alt="GitHub"
     class="text-xl slidev-icon-btn opacity-50 !border-none !hover:text-white">
     <carbon-logo-github />
   </a>
@@ -95,7 +101,7 @@ Here is another comment.
 
 ---
 
-# But sometimes you get inspired
+# But then you get inspired
 
 <div grid="~ cols-2 gap-4">
 <div>
@@ -111,13 +117,19 @@ Here is another comment.
 <!-- https://twitter.com/HEPfeickert/status/1634267477772324867?s=20 -->
 <!-- https://twitter.com/InessaPawson/status/1635063997585309698?s=20 -->
 
+
+---
+layout: center
 ---
 
 # So we still need coffee
 
 But let's go!
 
-<!-- <Youtube id="UgkxtpgKszNauM2DvHWMAnQNXgwsQ5hCIYqR" /> -->
+<video controls autoplay loop>
+  <source src="/videos/JamesHoffman_ahh_coffee.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ---
 transition: slide-up
