@@ -101,6 +101,20 @@ But let's go!
 
 Explain idea and why it can be useful but also not sustainable
 
+<div grid="~ cols-2 gap-4">
+<div>
+
+![](https://opentechstrategies.com/archetypes-files/open-source-archetypes-v2-cover.png)
+
+[Open Source Archetypes: A Framework For Purposeful Open Source](https://opentechstrategies.com/archetypes)
+
+</div>
+<!--  -->
+<div>
+Hi
+</div>
+</div>
+
 ---
 transition: slide-up
 
