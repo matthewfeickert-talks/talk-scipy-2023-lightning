@@ -96,7 +96,9 @@ But let's go!
 
 [![](https://opentechstrategies.com/archetypes-files/open-source-archetypes-v2-cover.png)](https://opentechstrategies.com/archetypes)
 
+<div style="text-align:center;">
 [Open Source Archetypes: A Framework For Purposeful Open Source](https://opentechstrategies.com/archetypes) --- Open Tech Strategies and Mozilla, 2019
+<div>
 
 </div>
 <!--  -->
@@ -185,7 +187,7 @@ But let's go!
 Don't listen to me, go to the talks and Birds of a Feather sessions this week!
 
 <div style="display: flex; justify-content:center;">
-<a href="https://cfp.scipy.org/2023/talk/MEGK33/">
+<a href="https://cfp.scipy.org/2023/talk/MEGK33/" style="border-style: none;">
 <img src="/figures/talk-contributor-experience.png" style="width: 50%; margin: 0 auto;">
 </a>
 </div>
