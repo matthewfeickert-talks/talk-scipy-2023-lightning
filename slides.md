@@ -49,8 +49,11 @@ The last comment block of each slide will be treated as slide notes. It will be 
 ---
 
 # Sometimes you have things planned out
+<br>
 
+<div style="margin-left:150px">
 <Tweet id="1548483936858152968" />
+</div>
 
 <!-- https://twitter.com/HEPfeickert/status/1548483936858152968?s=20 -->
 
