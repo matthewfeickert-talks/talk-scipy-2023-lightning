@@ -94,7 +94,12 @@ But let's go!
 <div grid="~ cols-2 gap-4">
 <div>
 
-[![](https://opentechstrategies.com/archetypes-files/open-source-archetypes-v2-cover.png)](https://opentechstrategies.com/archetypes)
+<br>
+<div style="display: flex; justify-content:center;">
+<a href="https://opentechstrategies.com/archetypes" style="border-style: none;">
+<img src="https://opentechstrategies.com/archetypes-files/open-source-archetypes-v2-cover.png" style="width: 100%; margin: 0 auto;">
+</a>
+</div>
 
 <div style="text-align:center;">
 
