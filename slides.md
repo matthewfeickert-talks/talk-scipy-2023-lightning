@@ -137,7 +137,7 @@ But let's go!
 
 <div style="margin-left:150px">
 <a href="https://scikit-hep.org/">
-<img src="/public/figures/shells-hep.svg" style="width: 70%">
+<img src="/figures/shells-hep.svg" style="width: 70%">
 </a>
 </div>
 
@@ -153,7 +153,7 @@ But let's go!
 
 <div style="margin-left:100px">
 <a href="https://scikit-hep.org/">
-<img src="figures/scientific-python.png" style="width: 90%">
+<img src="/figures/scientific-python.png" style="width: 90%">
 </a>
 </div>
 
@@ -170,7 +170,7 @@ But let's go!
 
 <div style="margin-left:100px">
 <a href="https://us-rse.org/">
-<img src="figures/us-rse-page.png" style="width: 90%">
+<img src="/figures/us-rse-page.png" style="width: 90%">
 </a>
 </div>
 
