@@ -183,6 +183,22 @@ But let's go!
 
 ---
 
-# Go to the BoFs!
+# Talk with the experts!
 
-Don't listen to me, go to the Birds of a Feather sessions this week!
+Don't listen to me, go to the talks and Birds of a Feather sessions this week!
+
+<a href="https://cfp.scipy.org/2023/talk/MEGK33/">
+<img src="/figures/talk-contributor-experience.png" style="width: 50%">
+</a>
+
+<a href="https://cfp.scipy.org/2023/talk/UT3CUZ/">
+<img src="/figures/talk-metpy.png" style="width: 50%">
+</a>
+
+<a href="https://cfp.scipy.org/2023/talk/EDZ9YB/">
+<img src="/figures/talk-pythia-community.png" style="width: 50%">
+</a>
+
+<a href="https://cfp.scipy.org/2023/talk/9JTLCF/">
+<img src="/figures/talk-nabari.png" style="width: 50%">
+</a>
