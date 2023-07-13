@@ -97,23 +97,33 @@ But let's go!
 
 ---
 
-# Rocket ship to Mars 🚀
-
-Explain idea and why it can be useful but also not sustainable
+# Rocket Ship To Mars 🚀
 
 <div grid="~ cols-2 gap-4">
 <div>
 
-![](https://opentechstrategies.com/archetypes-files/open-source-archetypes-v2-cover.png)
+[![](https://opentechstrategies.com/archetypes-files/open-source-archetypes-v2-cover.png)](https://opentechstrategies.com/archetypes)
 
-[Open Source Archetypes: A Framework For Purposeful Open Source](https://opentechstrategies.com/archetypes)
+[Open Source Archetypes: A Framework For Purposeful Open Source](https://opentechstrategies.com/archetypes) --- Open Tech Strategies and Mozilla, 2019
 
 </div>
 <!--  -->
 <div>
-Hi
+
+<br>
+
+* > Characterized by a small full-time core team that is wholly focused on a well-articulated and highly specific goal.
+* Many projects start out in this archetype, but it is almost impossible to sustain
+   - Not everyone can (or should!) be Daniel Stenberg (developing `curl` since before 1998)
+
 </div>
 </div>
+
+---
+
+# Go to the BoFs!
+
+Don't listen to me, go to the Birds of a Feather sessions this week!
 
 ---
 transition: slide-up
