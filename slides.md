@@ -14,7 +14,7 @@ favicon: 'https://images.squarespace-cdn.com/content/v1/63975e9df6661225421e79b4
 transition: fade-out
 selectable: true
 download: true
-title: Sustainability of Scientific Open Source Software
+title: sustainability-of-scientific-open-source-software_2023-07-13
 ---
 
 # **Sustainability of Scientific<br>Open Source Software**
