@@ -139,7 +139,7 @@ But let's go!
 </a>
 </div>
 
-<div style="margin-left:325px">
+<div style="text-align:center;">
 
 [scikit-hep.org](https://scikit-hep.org/)
 
@@ -156,7 +156,7 @@ But let's go!
 </div>
 
 
-<div style="margin-left:325px">
+<div style="text-align:center;">
 
 [scientific-python.org](https://scientific-python.org/)
 
@@ -172,8 +172,7 @@ But let's go!
 </a>
 </div>
 
-
-<div style="margin-left:355px">
+<div style="text-align:center;">
 
 [us-rse.org](https://us-rse.org/)
 
