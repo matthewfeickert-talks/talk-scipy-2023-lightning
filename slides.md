@@ -12,8 +12,6 @@ drawings:
   persist: false
 favicon: 'https://images.squarespace-cdn.com/content/v1/63975e9df6661225421e79b4/e46a82c5-0bc8-40ef-9299-e866d2934ee2/favicon.ico?format=100w'
 transition: fade-out
-# transition: slide-left
-# transition: false
 selectable: true
 download: true
 title: Sustainability of Scientific Open Source Software
