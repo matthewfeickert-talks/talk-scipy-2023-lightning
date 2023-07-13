@@ -19,7 +19,7 @@ download: true
 title: Sustainability of Scientific Open Source Software
 ---
 
-# Sustainability of Scientific<br>Open Source Software
+# **Sustainability of Scientific<br>Open Source Software**
 <br>
 Matthew Feickert
 
