@@ -14,7 +14,7 @@ favicon: 'https://images.squarespace-cdn.com/content/v1/63975e9df6661225421e79b4
 transition: fade-out
 selectable: true
 download: true
-title: sustainability-of-scientific-open-source-software_2023-07-13
+title: sustainability-of-scientific-open-source-software_2023-07-14
 ---
 
 # **Sustainability of Scientific<br>Open Source Software**
@@ -25,7 +25,7 @@ matthew.feickert@cern.ch
 
 SciPy 2023 Lightning Talks
 
-July 13th, 2023
+July 14th, 2023
 
 <div class="abs-bl m-5 flex gap-2">
   <img src=/figures/logos/logo_institution.png style="width: 30%">
